@@ -1,7 +1,10 @@
 # PocketFMS-Navlog
 create Navlogs for VFR Flights from the Flight Planning Software PocketFMS
+
 requires Python installation
+
 requires Reportlab instalation from https://www.reportlab.com for PDF creation
+
 requires Adobe Acrobat Reader installation
 
 Installation:
